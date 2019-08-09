@@ -5,3 +5,5 @@ App VBA
 -Possibilité de rechercher un titre de livre <br />
 -Possibilité de filtrer les livres en fonction d'un prix. (Problème si aucun livre est inférieur ou égal au prix donné, "Dépassement capacité")<br />
 -Possibilité de rechercher le prix max d'un livre parmi ceux présents dans la librairie<br />
+DISCLAIMER: TOUT LES LIVRES MIS ONT ETE MIS PAR EXEMPLE, JE NE VENDS AUCUN DE CES LIVRES
+
